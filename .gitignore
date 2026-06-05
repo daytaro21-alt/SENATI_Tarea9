@@ -1,0 +1,9 @@
+# Dependencias y entornos virtuales
+node_modules/
+__pycache__/
+venv/
+env/
+
+# Bases de datos y memoria local
+zEntregable/app/app.db
+.engram/
